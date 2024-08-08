@@ -1,10 +1,12 @@
-** boas vindas ao meu perfil🍒**
+### Boas vindas ao meu perfil🍒
 
-meu nome é paola piovesan
+Meu nome é Paola Piovesan
 
-- eu estou estudando no alura
-- estou me desenvolvendo na linguagem JavaScript
-- ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Eu estou estudando no [Alura](https://www.alura.com)
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ## você entrar em contato comigo
-- paola.piovesan.silva@escola.pr.gov.br
+ ## você entrar em contato comigo 📫
+ paola.piovesan.silva@escola.pr.gov.br
+
+![](https://media.tenor.com/-euC8SYHEm0AAAAj/frozen-lizard.gif)
